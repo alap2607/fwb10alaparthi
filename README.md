@@ -2,4 +2,4 @@
 
 <https://fwb10alaparthi.herokuapp.com/>
 
-My class vehicles attributes name(String), colour(String), price(String)
+My class hat attributes hat_name(String), type(String), price(String)
